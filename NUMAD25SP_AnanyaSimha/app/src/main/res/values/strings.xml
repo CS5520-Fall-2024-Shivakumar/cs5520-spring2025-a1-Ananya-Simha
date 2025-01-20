@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NUMAD25SP_AnanyaSimha</string>
+    <string name="button">About Me</string>
+    <string name="greeting">Hello World!</string>
+    <string name="about_me">Name: Ananya Simha
+Email: simha.an@northeastern.edu</string>
+</resources>
